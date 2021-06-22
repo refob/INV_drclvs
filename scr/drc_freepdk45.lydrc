@@ -343,7 +343,8 @@ grid = 2.5.nm
 all_drawing = [ :well, :active, :vtg, :vth, :pplus, :nplus, :poly, :thkox, :cont, :metal1, :via1, :metal2, :via2, :metal3, :via3, :metal4, :via4, :metal5, :via5, :metal6, :via6, :metal7, :via7, :metal8, :via8, :metal9, :via9, :metal10 ]
 all_drawing.each do |dwg|
   # a Ruby idiom to get the value of a variable whose name is in "dwg" (as symbol)
-  layer = binding.local_variable_get(dwg)
+  #layer = binding.local_variable_get(dwg)
+  layer = eval(dwg.to_s)
   r_grid = layer.ongrid(grid).polygons(10.nm)
   r_grid.output("GRID: vertexes on layer #{dwg} not on grid of #{'%.12g' % grid}")
 end

@@ -1,6 +1,6 @@
 "input" in: lvs_freepdk45.lylvs:56
     Polygons (raw): 8 (flat)  4 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:57
     Polygons (raw): 2 (flat)  1 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
@@ -9,10 +9,10 @@
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:59
     Polygons (raw): 4 (flat)  2 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:60
     Polygons (raw): 4 (flat)  2 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:61
     Polygons (raw): 2 (flat)  1 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
@@ -21,7 +21,7 @@
     Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:63
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:64
     Polygons (raw): 2 (flat)  1 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
@@ -36,7 +36,7 @@
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:68
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:69
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
@@ -48,22 +48,22 @@
     Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:72
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.030s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:73
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:74
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:75
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:76
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:77
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:78
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.020s  Memory: 576.00M
@@ -81,22 +81,22 @@
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:83
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:84
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:85
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:86
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:87
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:88
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:89
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.020s  Memory: 576.00M
@@ -108,7 +108,7 @@
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:92
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:93
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.020s  Memory: 576.00M
@@ -117,64 +117,64 @@
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:95
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:96
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:97
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:98
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:99
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.010s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:100
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:101
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.030s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:102
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.030s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:103
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.010s  Memory: 576.00M
+    Elapsed: 0.020s  Memory: 576.00M
 "input" in: lvs_freepdk45.lylvs:104
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 576.00M
+    Elapsed: 0.030s  Memory: 576.00M
 "&" in: lvs_freepdk45.lylvs:110
     Polygons (raw): 4 (flat)  2 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.040s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:111
     Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.050s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:112
     Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.050s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:113
     Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.050s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:114
     Polygons (raw): 4 (flat)  2 (hierarchical)
-    Elapsed: 0.050s  Memory: 1120.00M
-"-" in: lvs_freepdk45.lylvs:115
-    Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.040s  Memory: 1120.00M
+    Elapsed: 0.030s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:115
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.030s  Memory: 1120.00M
+"-" in: lvs_freepdk45.lylvs:115
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:116
     Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.030s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:116
     Polygons (raw): 2 (flat)  1 (hierarchical)
     Elapsed: 0.030s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:116
     Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.030s  Memory: 1120.00M
+    Elapsed: 0.040s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:117
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.040s  Memory: 1120.00M
@@ -183,7 +183,7 @@
     Elapsed: 0.020s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:117
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.010s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:119
     Polygons (raw): 4 (flat)  2 (hierarchical)
     Elapsed: 0.030s  Memory: 1120.00M
@@ -201,45 +201,45 @@
     Elapsed: 0.030s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:124
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.040s  Memory: 1120.00M
+    Elapsed: 0.030s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:124
     Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
-"-" in: lvs_freepdk45.lylvs:125
-    Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.010s  Memory: 1120.00M
+    Elapsed: 0.040s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:125
     Polygons (raw): 2 (flat)  1 (hierarchical)
     Elapsed: 0.020s  Memory: 1120.00M
+"-" in: lvs_freepdk45.lylvs:125
+    Polygons (raw): 2 (flat)  1 (hierarchical)
+    Elapsed: 0.030s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:125
     Polygons (raw): 2 (flat)  1 (hierarchical)
-    Elapsed: 0.030s  Memory: 1120.00M
-"-" in: lvs_freepdk45.lylvs:126
-    Polygons (raw): 0 (flat)  0 (hierarchical)
-    Elapsed: 0.020s  Memory: 1120.00M
+    Elapsed: 0.040s  Memory: 1120.00M
 "-" in: lvs_freepdk45.lylvs:126
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.030s  Memory: 1120.00M
+"-" in: lvs_freepdk45.lylvs:126
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 1120.00M
 "&" in: lvs_freepdk45.lylvs:126
     Polygons (raw): 0 (flat)  0 (hierarchical)
     Elapsed: 0.020s  Memory: 1120.00M
 "cheat" in: lvs_freepdk45.lylvs:131
-    Elapsed: 0.010s  Memory: 1120.00M
-"cheat" in: lvs_freepdk45.lylvs:132
     Elapsed: 0.030s  Memory: 1120.00M
-"cheat" in: lvs_freepdk45.lylvs:133
+"cheat" in: lvs_freepdk45.lylvs:132
     Elapsed: 0.020s  Memory: 1120.00M
+"cheat" in: lvs_freepdk45.lylvs:133
+    Elapsed: 0.030s  Memory: 1120.00M
 "cheat" in: lvs_freepdk45.lylvs:136
     Elapsed: 0.030s  Memory: 1120.00M
 "cheat" in: lvs_freepdk45.lylvs:137
     Elapsed: 0.020s  Memory: 1120.00M
 "cheat" in: lvs_freepdk45.lylvs:138
-    Elapsed: 0.020s  Memory: 1120.00M
-"netlist" in: lvs_freepdk45.lylvs:484
     Elapsed: 0.030s  Memory: 1120.00M
+"netlist" in: lvs_freepdk45.lylvs:484
+    Elapsed: 0.040s  Memory: 1120.00M
 Flatten schematic circuit (no layout): DBLE_INV_MERGE
 Writing netlist: /home/reinhard/INV_drclvs/DBLE_INV_SPLIT.sp ..
 Writing LVS database: /home/reinhard/INV_drclvs/lvs_report.lvsdb ..
-Total elapsed: 1.630s  Memory: 1120.00M
+Total elapsed: 2.010s  Memory: 1120.00M
 CONGRATULATIONS! Netlists match.
-LVS finished at : 9:1:14  -  LVS duration =  0 hrs. 0 min. 1 sec.
+LVS finished at : 10:57:6  -  LVS duration =  0 hrs. 0 min. 1 sec.

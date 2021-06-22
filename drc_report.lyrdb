@@ -751,6 +751,234 @@
    <categories>
    </categories>
   </category>
+  <category>
+   <name>GRID: vertexes on layer well not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer active not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer vtg not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer vth not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer pplus not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer nplus not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer poly not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer thkox not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer cont not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal1 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via1 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal2 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via2 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal3 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via3 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal4 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via4 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal5 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via5 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal6 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via6 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal7 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via7 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal8 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via8 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal9 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer via9 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>GRID: vertexes on layer metal10 not on grid of 0.0025</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL1_ANTENNA</name>
+   <description>METAL1_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL2_ANTENNA</name>
+   <description>METAL2_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL3_ANTENNA</name>
+   <description>METAL3_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL4_ANTENNA</name>
+   <description>METAL4_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL5_ANTENNA</name>
+   <description>METAL5_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL6_ANTENNA</name>
+   <description>METAL6_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL7_ANTENNA</name>
+   <description>METAL7_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL8_ANTENNA</name>
+   <description>METAL8_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL9_ANTENNA</name>
+   <description>METAL9_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>METAL10_ANTENNA</name>
+   <description>METAL10_ANTENNA : Ratio of Maximum Allowed (Field poly area or Metal Layer Area) to transistor gate area : 300:1</description>
+   <categories>
+   </categories>
+  </category>
  </categories>
  <cells>
   <cell>
